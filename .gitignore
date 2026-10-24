@@ -1,0 +1,8 @@
+config.env
+*.log
+*.log.*
+*.pem
+*.key
+*.crt
+api-keys
+.DS_Store
